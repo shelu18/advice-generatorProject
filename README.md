@@ -1,4 +1,5 @@
-# notes
+# notes of concepts used in this project 
+
 
 learning notes  of the project  
 
